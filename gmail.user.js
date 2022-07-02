@@ -6,8 +6,8 @@
 // @author       You
 // @match        https://mail.google.com/mail/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
-// @updateURL    https://github.com/xif6/tampermonkey/blob/main/gmail.js
-// @downloadURL  https://github.com/xif6/tampermonkey/blob/main/gmail.js
+// @updateURL    https://github.com/xif6/tampermonkey/blob/main/gmail.user.js
+// @downloadURL  https://github.com/xif6/tampermonkey/blob/main/gmail.user.js
 // @grant        none
 // ==/UserScript==
 
